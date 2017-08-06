@@ -9,11 +9,11 @@
     * To understand how consensus works
 
 ### References:
-    * [bitcoin.org](bitcoin.org)
+* [bitcoin.org](bitcoin.org)
 
         An open crowd sourced source of information and reference filled with numerous bitcoin core developers' insights and working.
 
-    * [electrum.org](./electrum.md)
+* [electrum.org](./electrum.md)
 
         Released under MIT license, Electrum is a bitcoin wallet application that works on Windows, Android, OSX and Linux.
 
