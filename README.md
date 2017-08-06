@@ -17,9 +17,22 @@
 
         Released under MIT license, Electrum is a bitcoin wallet application that works on Windows, Android, OSX and Linux.
 
-[Choosing your wallet](https://bitcoin.org/en/choose-your-wallet):
+* [Choosing your wallet](https://bitcoin.org/en/choose-your-wallet):
 
-Choose among [Desktop](https://bitcoin.org/en/wallets/desktop/linux/), [Hardware](https://bitcoin.org/en/wallets/hardware/), [Mobile](https://bitcoin.org/en/wallets/mobile/android/mycelium/)  and [web](https://bitcoin.org/en/wallets/web/) wallets.
+* [AES Encryption Standard(AES/Rijndael)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
+
+* [SHA 512 / SHA 2 Digest](https://en.wikipedia.org/wiki/SHA-2)
+
+* [Economics](https://lagunita.stanford.edu/courses/course-v1:HumanitiesSciences+Econ1+Summer2017/)
+
+### FAQ
+
+* [How are public and private keys related to wallet](https://bitcoin.stackexchange.com/questions/19950/how-are-public-and-private-keys-related-to-the-wallet)
+
+* How much do you think so-so cryptocurrency will rise or dip ?
+    Cryptocurrencies and our day to day fiat government backed currencies belong to entirely different economic scenarios and hence making any judgement on either fiat equivalent of a cryptocurrency is pure deliberation.
+    Not to be relied on.
+
 
 ## Disclaimer
 
