@@ -4,18 +4,18 @@
 ## Objective
 
     * To understand the beauty of Blockchain that Bitcoin has brought to us.
-    * To understand the basic working of the blockchain in general.
+    * To understand the basic working of the Blockchain in general.
     * To understand the working of a cryptographic wallet.
     * To understand how consensus works
 
 ### References:
 * [bitcoin.org](bitcoin.org)
 
-        An open crowd sourced source of information and reference filled with numerous bitcoin core developers' insights and working.
+    An open crowd sourced source of information and reference filled with numerous bitcoin core developers' insights and working.
 
 * [electrum.org](./electrum.md)
 
-        Released under MIT license, Electrum is a bitcoin wallet application that works on Windows, Android, OSX and Linux.
+    Released under MIT license, Electrum is a bitcoin wallet application that works on Windows, Android, OSX and Linux.
 
 * [Choosing your wallet](https://bitcoin.org/en/choose-your-wallet):
 
