@@ -29,6 +29,8 @@
 
 * [Cryptography by Dan Boneh](https://www.coursera.org/learn/crypto)
 
+* [Wallet Encryption](https://en.bitcoin.it/wiki/Wallet_encryption)
+
 
 ### FAQ
 
