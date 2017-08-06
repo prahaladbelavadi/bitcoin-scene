@@ -25,6 +25,11 @@
 
 * [Economics](https://lagunita.stanford.edu/courses/course-v1:HumanitiesSciences+Econ1+Summer2017/)
 
+* [A graduate course in Cryptography](http://toc.cryptobook.us/)
+
+* [Cryptography by Dan Boneh](https://www.coursera.org/learn/crypto)
+
+
 ### FAQ
 
 * [How are public and private keys related to wallet](https://bitcoin.stackexchange.com/questions/19950/how-are-public-and-private-keys-related-to-the-wallet)
