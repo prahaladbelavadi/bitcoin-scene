@@ -30,6 +30,7 @@
 * [How are public and private keys related to wallet](https://bitcoin.stackexchange.com/questions/19950/how-are-public-and-private-keys-related-to-the-wallet)
 
 * How much do you think so-so cryptocurrency will rise or dip ?
+
     Cryptocurrencies and our day to day fiat government backed currencies belong to entirely different economic scenarios and hence making any judgement on either fiat equivalent of a cryptocurrency is pure deliberation.
     Not to be relied on.
 
